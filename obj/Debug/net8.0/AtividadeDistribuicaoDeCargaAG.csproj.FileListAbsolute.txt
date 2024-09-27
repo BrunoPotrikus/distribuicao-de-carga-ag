@@ -1,0 +1,14 @@
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\bin\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.exe
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\bin\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.deps.json
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\bin\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.runtimeconfig.json
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\bin\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.dll
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\bin\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.pdb
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.AssemblyInfo.cs
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.dll
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\refint\AtividadeDistribuicaoDeCargaAG.dll
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.pdb
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\AtividadeDistribuicaoDeCargaAG.genruntimeconfig.cache
+C:\Users\bruno\source\repos\AtividadeDistribuicaoDeCargaAG\obj\Debug\net8.0\ref\AtividadeDistribuicaoDeCargaAG.dll
